@@ -81,5 +81,5 @@
 <br/>
 <br/>
 
-<h2>🔥 Recent Used Language 🔥</h2>
+<h2 align="center">🔥 Recent Used Language 🔥</h2>
 <br>
