@@ -79,7 +79,7 @@
 <hr/>
 
 <br/>
-<br/>
 
 <h2 align="center">🔥 Recent Used Language 🔥</h2>
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy_man"></img>
 <br>
