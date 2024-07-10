@@ -68,8 +68,8 @@
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=ZeyadAy-man&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=ZeyadAy-man)](https://github.com/anuraghazra/github-readme-stats"></a> -->
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy_man&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy-man"/>
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy-man&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy_man"/>
 </div>
 
 <br/><br/>
