@@ -26,7 +26,7 @@
 </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/1/?pli=1#inbox">
+  <a href="mailto:zeyad4wonly@gmail.com?subject=Let's%20Chat&body=Hi,%20can%20we%20chat?">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/zeyad-ayman-a050b0221" target="_blank">
