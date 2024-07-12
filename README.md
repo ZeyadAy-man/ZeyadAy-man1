@@ -70,7 +70,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="center">
+<div align="center" width="100%">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy-man&layout=donut&width=100%)](https://github.com/anuraghazra/github-readme-stats)
 
