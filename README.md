@@ -9,7 +9,6 @@
 <br/>
 <div>
   <br>
-  <br>
   🔭 I’m currently working on **A Portfolio**
   <br>
   <br>
