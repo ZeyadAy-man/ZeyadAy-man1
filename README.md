@@ -94,6 +94,7 @@
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/40e24769-d3b7-4707-b853-58e0b334215a.svg"/></figure>
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/e74584cd-d00d-424a-ba6b-7841a0857cea.svg"/></figure>
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/b3dec9b6-7de8-4f71-89f0-7aea44e54fd0.svg"/></figure>
+  <figure><img src="https://wakatime.com/share/@ZeyadAy_man/7829295a-1dce-496e-8f3a-5695d3afdfa0.svg"/></figure>
 <br>
 <br>
 </div>
