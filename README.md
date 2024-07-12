@@ -69,7 +69,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center flexdirection=row>
+<div align=center flexdirection="row">
   <img width=450 href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy_man&layout=donut-vertical" alt="GitHub PieChart"/>
   <br>
   <br>
