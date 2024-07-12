@@ -74,7 +74,7 @@
 <div align=center display=flex flexdirection=row>
   <br>
   <br>
-  <a width=450 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent" alt="GitHub Streak" /></a>
+  <a align="left" width=450 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent" alt="GitHub Streak" /></a>
 <!--   <br> -->
 <!--   <br> -->
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=ZeyadAy-man&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
