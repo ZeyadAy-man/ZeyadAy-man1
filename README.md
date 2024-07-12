@@ -91,6 +91,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadAy-man&bg_color=000000&&color=00FFFF&line=241AE8&point=FFFFFF&area=false&hide_border=false" border-radius="15">
   </div>
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/0b992818-8e7b-40c4-a4e9-35036f5ac616.svg"/></figure>
+  <figure><img src="https://wakatime.com/share/@ZeyadAy_man/0b992818-8e7b-40c4-a4e9-35036f5ac616.svg"/></figure>
 <br>
 <br>
 </div>
