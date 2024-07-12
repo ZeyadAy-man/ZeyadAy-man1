@@ -104,6 +104,6 @@
 <h2 align="center">🔥 Recent Used Language 🔥</h2>
 <br>
 <div align="center">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy_man&bg_color=000000&text_color=00FFFF"></img>
+    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy_man&bg_color=000000&text_color=00FFFF&title_color=AA4203"></img>
 </div>
 <br>
