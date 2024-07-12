@@ -78,7 +78,7 @@
 <div align=center display=flex flexdirection=row>
   <br>
   <br>
-  <a align="left" width="100%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent&fire=AA4203&ring=00FFFF&border=00FFFF" alt="GitHub Streak" /></a>
+  <a align="left" width="100%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent&fire=AA4203&ring=00FFFF&border=00FFFF&sideNums=00FFFF&" alt="GitHub Streak" /></a>
 <!--   <br> -->
 <!--   <br> -->
   <div align="center">
