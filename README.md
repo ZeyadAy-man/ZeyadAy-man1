@@ -7,7 +7,6 @@
 <h3 align="center">A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer</h3>
 
 <br/>
-
 <div>
   <br>
   <br>
