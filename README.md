@@ -92,6 +92,7 @@
   </div>
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/6c5ed574-1b75-431f-ae4d-f4d2f82b0f76.svg"/></figure>
   <figure><img src="https://wakatime.com/share/@ZeyadAy_man/40e24769-d3b7-4707-b853-58e0b334215a.svg"/></figure>
+  <figure><img src="https://wakatime.com/share/@ZeyadAy_man/e74584cd-d00d-424a-ba6b-7841a0857cea.svg"/></figure>
 <br>
 <br>
 </div>
