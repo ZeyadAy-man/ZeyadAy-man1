@@ -88,7 +88,7 @@
       <img align="center" width=47.5% height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy-man&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadAy-man&bg_color=000000&&color=00FFFF&line=c56a90&point=FFFFFF&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadAy-man&bg_color=000000&&color=00FFFF&line=241AE8&point=FFFFFF&area=false&hide_border=false" border-radius="15">
   </div>
 <br>
 <br>
