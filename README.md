@@ -81,7 +81,7 @@
   <a align="left" width=47% href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent" alt="GitHub Streak" /></a>
 <!--   <br> -->
 <!--   <br> -->
-  <div align="center">
+  <div align="left">
       <img align="right" width=47% src="https://github-readme-stats.vercel.app/api?username=ZeyadAy-man&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <!--   <br> -->
     <!--   <br> -->
