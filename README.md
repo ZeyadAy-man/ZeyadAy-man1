@@ -40,8 +40,10 @@
   </a>
 </div>
 
- <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
- 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -51,8 +53,9 @@
 </div>
 
 <br/>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -62,8 +65,9 @@
   <br/><br/><br/>
 </div>
 
- <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -84,8 +88,9 @@
 
 <br/><br/>
 
- <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=700 height=20/>
+</div>
 
 <br/>
 
