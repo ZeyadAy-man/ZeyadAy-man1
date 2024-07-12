@@ -66,7 +66,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=450 href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="GitHub PieChart"/>
+  <img width=450 href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAy-man&layout=donut-vertical" alt="GitHub PieChart"/>
   <br>
   <br>
   <a width=450 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeyadAy-man&theme=transparent" alt="GitHub Streak" /></a>
